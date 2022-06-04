@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+nepali_to_roman.egg-info/PKG-INFO
+nepali_to_roman.egg-info/SOURCES.txt
+nepali_to_roman.egg-info/dependency_links.txt
+nepali_to_roman.egg-info/top_level.txt
+ntr/__init__.py
+ntr/app.py
+ntr/bhandar.py
