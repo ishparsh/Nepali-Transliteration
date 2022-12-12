@@ -1,13 +1,11 @@
 Metadata-Version: 2.1
 Name: nepali-to-roman
-Version: 0.1.6
+Version: 0.1.9
 Summary: A PyPi package to convert Nepali words to Romanized English Literals. Here we perform translieration and convert Devanagari words into Roman Literals. Nepali to Roman
-Home-page: https://github.com/Diwas524
-Author: Diwas Pandey & Ishparsh Uprety
+Home-page: https://github.com/ishparsh/Nepali-Transliteration
+Author: Diwas Pandey, Ishparsh Uprety & Navraj Pokharel
 Author-email: uprety.ishparsh@gmail.com
-License: UNKNOWN
 Keywords: Nepali to roman,Nepali Transliteration,devanagari to English,devanagari,Diwas Pandey,Ishparsh Uprety,Nepali to roman,Nepali words to roman,roman from nepali,convert nepali to roman,romanize nepali words,how to convert nepali to roman,convert Nepali to Roman
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -15,7 +13,6 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-## nepali-to-roman
 ## Package to convert Nepali text to romanized English.
 
 [![Downloads](https://pepy.tech/badge/nepali-to-roman)](https://pepy.tech/project/nepali-to-roman) 
@@ -76,5 +73,3 @@ feedback of any sort are highly welcome.
 ['Diwas Pandey'](https://www.diwaspandey.com.np) 
 </br>
 ['Ishparsh Uprety](https://www.ishparshuprety.com.np/)
-
-

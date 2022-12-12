@@ -1,6 +1,7 @@
 import re
 import os
-from bhandar import dict_value
+from ntr.bhandar import dict_value
+
 
 def nep_to_rom(text):
     

@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 
 setup(
     name='nepali-to-roman',
-    version='0.1.6',  # Required
+    version='0.1.9',  # Required
     description='A PyPi package to convert Nepali words to Romanized English Literals. Here we perform translieration and convert Devanagari words into Roman Literals. Nepali to Roman',
-    url='https://github.com/Diwas524',
+    url='https://github.com/ishparsh/Nepali-Transliteration',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author='Diwas Pandey & Ishparsh Uprety',
+    author='Diwas Pandey, Ishparsh Uprety & Navraj Pokharel',
     author_email='uprety.ishparsh@gmail.com',
     packages=setuptools.find_packages(),
     classifiers=[
