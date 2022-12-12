@@ -57,4 +57,6 @@ feedback of any sort are highly welcome.
 ## About Contributors
 ['Diwas Pandey'](https://www.diwaspandey.com.np) 
 </br>
-['Ishparsh Uprety](https://www.ishparshuprety.com.np/)
+['Ishparsh Uprety'](https://www.ishparshuprety.com.np/)
+</br>
+['Nawaraj Pokharel'](https://github.com/nawarazpokhrel)
